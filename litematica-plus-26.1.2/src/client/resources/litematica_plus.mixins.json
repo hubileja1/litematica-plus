@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "pl.litematicaplus.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "ContainerScreenMixin",
+    "ChunkSchematicMixin",
+    "GuiMaterialListMixin",
+    "MaterialListUtilsMixin",
+    "WidgetMaterialListEntryMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
